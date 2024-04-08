@@ -18,8 +18,3 @@ In the brick breaker game, the player maneuvers paddle to hit a BALL. The game o
 https://github.com/TayyabSohail/Brick-Breaker-Game-Assembly_Language-x86-64-/assets/129260556/59627a3e-033e-456f-b4e5-7904be954324
 
 
-
-
-
-https://github.com/TayyabSohail/Brick-Breaker-Game-Assembly_Language-x86-64-/assets/129260556/6e402bc8-0805-4e9e-8116-094a1b514f32
-
